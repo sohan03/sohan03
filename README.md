@@ -1,5 +1,7 @@
-#  Hi👋,I'm Sohan 
+#  Hi👋,I'm Sohan K
+
 A passionate Mern Stack Developer
+  
 🔭 I’m currently working in Skylux Telelink Pvt Ltd as Software Engineer<br><br>🌱 I’m currently learning Advanced JavaScript Front-End and Back-End frameworks <br><br>👨‍💻 All of my projects are available at https://github.com/sohan03<br><br>💬 Ask me about React.js, JavaScript, MongoDB, PostgreSQL, Node.js, Express.js, Genesys Cloud ,Postman <br><br>📫 How to reach me sohankaran35@gmail.com<br><br>🌟 Fun Fact: I'm a passionate coder who loves playing cricket, experimenting with new recipes, and drawing in my free time! 🌟 
 
 
